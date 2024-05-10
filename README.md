@@ -15,8 +15,9 @@
 
 ### 发布npm
 ```
-  npm publish
+  npm publish --access public
 ```
 
 
 ### 使用组件库
+npm i @valorjs/react-mobile-component
